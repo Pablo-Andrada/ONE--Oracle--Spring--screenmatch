@@ -10,5 +10,5 @@ public class ScreenmatchApplication {
 		SpringApplication.run(ScreenmatchApplication.class, args);
 	}
 	int numero = 10;
-	String saludo = "Hola";
+	String saludo = "Hoola";
 }
