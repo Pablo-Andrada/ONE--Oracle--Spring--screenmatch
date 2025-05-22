@@ -1,7 +1,5 @@
 package com.aluracursos.screenmatch.service;
-
+//CREADA EN EL VIDEO 1.4
 public interface IConvierteDatos {
-
-    <T> T obteberDatos (String json, Class<T> clase);
-
+    <T> T obtenerDatos(String json, Class<T> clase);
 }
